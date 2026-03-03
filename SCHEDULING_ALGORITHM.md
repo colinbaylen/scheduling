@@ -1,6 +1,6 @@
 ## Manual Scheduling Algorithm (Annaliese's Method)
 
-The following order-of-operations is recommended for building a schedule:
+This is the order of operations for manually created schedule:
 
 1. Confirm the list of off-service rotators (OSRs) for the block
 2. Record all resident day-off requests
