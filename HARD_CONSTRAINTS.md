@@ -56,7 +56,7 @@ These rules MUST NOT be violated under any circumstances. Any schedule that brea
 
 ### Key Hard Eligibility Rules:
 - **PGY4 only**: Bellevue Team 2 senior shifts (`D2a`, `D2p`, `N2`)
-- **PGY2 only**: Bellevue `d2a`, `n1`, `n3`, and `d2b` on Wednesdays
+- **PGY2 only**: Bellevue `d2a`, `n1`, `n3`, and `d2b` (d2b only on Wednesdays)
 - **PGY2 required**: At least one PGY2 must staff Team 2 day shift at Bellevue (the examining resident role); this applies on weekdays and weekends
 - **PGY2 required**: On every Bellevue night shift, there must be a PGY2 on Team 1 AND a PGY2 on Team 3
 - **Non-anchor only**: Non-anchor OSRs (Psych, OMFS, Ophthalmology) may ONLY staff Team 2 non-anchor designated shifts; they cannot staff any other junior shift
